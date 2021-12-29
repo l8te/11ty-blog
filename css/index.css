@@ -5,7 +5,7 @@
   --darkgray: #333;
   --navy: #17050F;
   --blue: #082840;
-  --white: #fff;
+  --lightgray: #ccc;
 }
 
 /* Global stylesheet */
@@ -19,7 +19,7 @@ body {
   margin: 0;
   font-family: -apple-system, system-ui, sans-serif;
   color: var(--darkgray);
-  background-color: var(--white);
+  background-color: var(--lightgray);
 }
 p:last-child {
   margin-bottom: 0;
