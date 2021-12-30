@@ -2,7 +2,7 @@
 title: All guts, no glory
 description: This is a post on My Blog about touchpoints and circling wagons.
 date: 2018-09-30
-tags: [ 'beetle', 'painting', 'partsInside' ]
+tags: [ 'beetle', 'painting', 'parts inside' ]
 layout: layouts/post.njk
 eleventyNavigation:
   key: fourth

@@ -2,7 +2,7 @@
 title: Astral Navigator
 description: A paining of a beetle
 date: 2018-05-01
-tags: [ 'painting', 'shows', 'sleepDebtor' ]
+tags: [ 'painting', 'shows', 'sleep debtor' ]
 layout: layouts/post.njk
 eleventyNavigation:
   key: Astral Navigator

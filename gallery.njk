@@ -10,12 +10,12 @@ eleventyNavigation:
 
 <h2>Shows</h2>
 <h3>Sleep Debtor</h3>
-{% set postslist = collections.sleepDebtor | head(-3) %}
+{% set postslist = collections['sleep debtor'] | head(-3) %}
 {% set postslistCounter = collections.sleepDebtor | length %}
 {% include "postslist.njk" %}
 
 <h3>" PARTS INSIDE "</h3>
-{% set postslist = collections.partsInside | head(-3) %}
+{% set postslist = collections['parts inside'] | head(-3) %}
 {% set postslistCounter = collections.partsInside | length %}
 {% include "postslist.njk" %}
 
