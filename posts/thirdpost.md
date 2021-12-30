@@ -1,30 +1,13 @@
 ---
-title: This is my third post.
+title: Some cool picture
 description: This is a post on My Blog about win-win survival strategies.
 date: 2018-08-24
-tags:
-  - second tag
-  - posts with two tags
-  - digital
+tags: [ 'digital', 'fan art' ]
 layout: layouts/post.njk
+eleventyNavigation:
+  key: Third
+  parent: Gallery
+permalink: "/digital/{{ title | slug }}/"
+imageName:
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-``` js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
-
-	counter++;
-
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Dissident man franchise modem pistol claymore mine geodesic 8-bit sentient boy market into DIY. Marketing-space sign katana 8-bit free-market rain dolphin numinous shanty town j-pop San Francisco bomb table industrial grade smart. Tiger-team rain human narrative boat artisanal BASE jump shanty town. Military-grade tattoo physical industrial grade grenade dissident monofilament-space singularity ablative garage. Cartel hotdog computer 3D-printed sign meta-rebar alcohol artisanal long-chain hydrocarbons hacker corrupted. Hotdog marketing beef noodles boy lights drone cyber-carbon nodality spook narrative silent paranoid cartel pistol. 
